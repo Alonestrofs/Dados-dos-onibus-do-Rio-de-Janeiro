@@ -103,14 +103,6 @@ A pasta `/tools/` contém utilitários de suporte, como:
 
 ---
 
-## 🚀 Próximos Passos
-
-* Implementar visualizações gráficas com **Matplotlib** ou **Plotly**
-* Automatizar a atualização dos dados via **cron job**
-* Publicar dashboards no **Data Studio** ou **Power BI**
-
----
-
 ## 🏙️ Fontes dos Dados
 
 * API Data.Rio – SPPO
