@@ -2,7 +2,8 @@
 
 Este repositório contém uma **pipeline completa em Python** para **coletar, processar e analisar dados de performance dos ônibus** da cidade do **Rio de Janeiro**, utilizando informações públicas da **API Data.Rio (SPPO)** e **feeds GTFS**.
 
-A análise já feita por nós da API contém os dados de cerca de 4200 carros e analisou cerca de 200000 viagens, que pode ser conferido nos arquivos carros.tgz e viagens.xlsl (ou viagens.csv), respectivamente. 
+A análise já feita por nós da API contém os dados de cerca de 4200 carros e analisou cerca de 200000 viagens, que pode ser conferido nos arquivos carros.tgz e viagens.xlsl (ou viagens.csv), respectivamente.
+Viagens essas analisadas entre os dias 01 e 07 de novembro de 2025.
 ---
 
 ## 📁 Estrutura do Repositório
